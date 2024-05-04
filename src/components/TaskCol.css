@@ -1,6 +1,11 @@
 .task_col_heading{
     display: flex;
     align-items: center;
+    max-width: 100%;
+    word-wrap: break-word;
+    padding: 10px;
+    border: 1px solid #dfe3e5;
+    margin-bottom: 10px;
     
 }
 .task_col_icon{
